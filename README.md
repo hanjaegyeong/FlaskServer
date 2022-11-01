@@ -1,2 +1,2 @@
 # FlaskServer
-The Flask Server using python(flask framework) & html
+The Flask Server using python(flask framework)
