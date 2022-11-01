@@ -1,2 +1,2 @@
 # FlaskServer
-jg's first flask mission
+The Flask Server using python(flask framework) & html
